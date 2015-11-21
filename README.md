@@ -13,6 +13,7 @@ GoOut-shadowsocks-manyuser 是shadowsocks-manyuser 的一个分支
 
 配置文件
 1.~/shadowsocks/Config.py
+
 	#Config
 	MYSQL_HOST = '数据库服务器地址'
 	MYSQL_PORT = 3306
