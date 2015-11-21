@@ -31,6 +31,7 @@ GoOut-shadowsocks-manyuser 是shadowsocks-manyuser 的一个分支
 数据库需要配合前端使用，后台不提供数据库
 
 2.~/shadowsocks/config.json
+
 	{
 	    "server":"0.0.0.0",
 	    "server_ipv6": "[::]",
@@ -41,4 +42,5 @@ GoOut-shadowsocks-manyuser 是shadowsocks-manyuser 的一个分支
 	    "timeout":300,
 	    "method":"aes-256-cfb"
 	}
+
 该配置文件只需要修改method 加密方式即可，其他参数基本没用但不可删除
