@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//shadowsocks/asyncmgr.py=utf-8
+encoding//shadowsocks/db_transfer.py=UTF-8
+encoding//shadowsocks/local.py=utf-8
+encoding//shadowsocks/server_pool.py=utf-8
+encoding//shadowsocks/utils.py=utf-8
